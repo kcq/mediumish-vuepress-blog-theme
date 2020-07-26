@@ -12,9 +12,3 @@ First paragraph. Something, something... interesting.
 Second paragraph. Something, something... else :-)
 
 Done!
-
-\`\`\`js
-
-var x = {one: "one"};
-
-\`\`\`
